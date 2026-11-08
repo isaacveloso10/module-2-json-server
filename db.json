@@ -1,119 +1,37 @@
+
 {
-  "companies": [
+  "artists": [
     {
-      "id": "1234",
-      "name": "Nintendo",
-      "location": "Japan",
-      "foundedYear": "1889"
+      "id": "1",
+      "name": "DJ Nova",
+      "genre": "House",
+      "bio": "Electronic music DJ and producer.",
+      "image": "",
+      "stageId": "1",
+      "day": "Friday",
+      "time": "22:00"
     },
     {
-      "id": "5678",
-      "name": "Sony Interactive Entertainment",
-      "location": "Japan",
-      "foundedYear": "1993"
-    },
-    {
-      "id": "9012",
-      "name": "Microsoft",
-      "location": "United States",
-      "foundedYear": "1975"
-    },
-    {
-      "id": "3456",
-      "name": "Sega",
-      "location": "Japan",
-      "foundedYear": "1960"
-    },
-    {
-      "id": "7890",
-      "name": "Capcom",
-      "location": "Japan",
-      "foundedYear": "1979"
-    },
-    {
-      "id": "2468",
-      "name": "Ubisoft",
-      "location": "France",
-      "foundedYear": "1986"
+      "id": "2",
+      "name": "Echo System",
+      "genre": "Techno",
+      "bio": "Experimental electronic music project.",
+      "image": "",
+      "stageId": "2",
+      "day": "Saturday",
+      "time": "23:00"
     }
   ],
-  "games": [
+  "stages": [
     {
-      "id": "ABCD",
-      "title": "The Legend of Zelda: Ocarine of Time Remake",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234"
+      "id": "1",
+      "name": "Main Stage",
+      "description": "The festival's main performance area."
     },
     {
-      "id": "EFGH",
-      "title": "Super Mario Odyssey",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "IJKL",
-      "title": "Mario Kart 8 Deluxe",
-      "category": "sports",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "MNOP",
-      "title": "Animal Crossing: New Horizons",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "QRST",
-      "title": "Super Smash Bros. Ultimate",
-      "category": "fighting",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "UVWX",
-      "title": "Metroid Dread",
-      "category": "action",
-      "rating": null,
-      "companyId": "1234"
-    },
-    {
-      "id": "YZ01",
-      "title": "God of War Ragnarök",
-      "category": "action",
-      "rating": null,
-      "companyId": "5678"
-    },
-    {
-      "id": "YZ03",
-      "title": "Sonic Mania",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "3456"
-    },
-    {
-      "id": "YZ04",
-      "title": "Street Fighter 6",
-      "category": "fighting",
-      "rating": null,
-      "companyId": "7890"
-    },
-    {
-      "id": "YZ05",
-      "title": "Assassin's Creed Odyssey",
-      "category": "action",
-      "rating": 10,
-      "companyId": "2468"
-    },
-    {
-      "title": "Metroid Prime 4",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "1234",
-      "id": "QVqBE5k"
+      "id": "2",
+      "name": "Garden Stage",
+      "description": "An outdoor stage for electronic music."
     }
   ]
 }
