@@ -1,4 +1,196 @@
+{
+  "artists": [
     {
+      "id": "1",
+      "name": "Velvet Circuit",
+      "genre": "House",
+      "bio": "Velvet Circuit is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Friday",
+      "time": "18:00"
+    },
+    {
+      "id": "2",
+      "name": "Neon Current",
+      "genre": "Electro",
+      "bio": "Neon Current is a fictional electronic music act known for electro sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Friday",
+      "time": "18:00"
+    },
+    {
+      "id": "3",
+      "name": "Mira Solstice",
+      "genre": "Disco",
+      "bio": "Mira Solstice is a fictional electronic music act known for disco sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Friday",
+      "time": "20:00"
+    },
+    {
+      "id": "4",
+      "name": "Static Bloom",
+      "genre": "Techno",
+      "bio": "Static Bloom is a fictional electronic music act known for techno sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Friday",
+      "time": "20:00"
+    },
+    {
+      "id": "5",
+      "name": "Luca Meridian",
+      "genre": "UK Garage",
+      "bio": "Luca Meridian is a fictional electronic music act known for uk garage sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Friday",
+      "time": "22:00"
+    },
+    {
+      "id": "6",
+      "name": "Sable Frequency",
+      "genre": "Deep House",
+      "bio": "Sable Frequency is a fictional electronic music act known for deep house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Friday",
+      "time": "22:00"
+    },
+    {
+      "id": "7",
+      "name": "Echo Meridian",
+      "genre": "Techno",
+      "bio": "Echo Meridian is a fictional electronic music act known for techno sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Friday",
+      "time": "00:00"
+    },
+    {
+      "id": "8",
+      "name": "Nova Palms",
+      "genre": "Nu-Disco",
+      "bio": "Nova Palms is a fictional electronic music act known for nu-disco sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Friday",
+      "time": "00:00"
+    },
+    {
+      "id": "9",
+      "name": "Pulse Archive",
+      "genre": "Electro",
+      "bio": "Pulse Archive is a fictional electronic music act known for electro sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Friday",
+      "time": "02:00"
+    },
+      {
+      "id": "10",
+      "name": "Iris Voltage",
+      "genre": "House",
+      "bio": "Iris Voltage is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Friday",
+      "time": "02:00"
+    },
+    {
+      "id": "11",
+      "name": "Orion Drift",
+      "genre": "Melodic Techno",
+      "bio": "Orion Drift is a fictional electronic music act known for melodic techno sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Saturday",
+      "time": "18:00"
+    },
+    {
+      "id": "12",
+      "name": "Cobalt Rhythm",
+      "genre": "House",
+      "bio": "Cobalt Rhythm is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Saturday",
+      "time": "18:00"
+    },
+    {
+      "id": "13",
+      "name": "Mara Phase",
+      "genre": "Electro",
+      "bio": "Mara Phase is a fictional electronic music act known for electro sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Saturday",
+      "time": "20:00"
+    },
+    {
+      "id": "14",
+      "name": "Golden Relay",
+      "genre": "Disco",
+      "bio": "Golden Relay is a fictional electronic music act known for disco sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Saturday",
+      "time": "20:00"
+    },
+    {
+      "id": "15",
+      "name": "Lowlight Theory",
+      "genre": "UK Garage",
+      "bio": "Lowlight Theory is a fictional electronic music act known for uk garage sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Saturday",
+      "time": "22:00"
+    },
+    {
+      "id": "16",
+      "name": "Tessa Flux",
+      "genre": "Techno",
+      "bio": "Tessa Flux is a fictional electronic music act known for techno sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Saturday",
+      "time": "22:00"
+    },
+    {
+      "id": "17",
+      "name": "Chrome Garden",
+      "genre": "House",
+      "bio": "Chrome Garden is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Saturday",
+      "time": "00:00"
+    },
+    {
+      "id": "18",
+      "name": "Astra Loom",
+      "genre": "Electro",
+      "bio": "Astra Loom is a fictional electronic music act known for electro sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Saturday",
+      "time": "00:00"
+    },
+    {
+      "id": "19",
+      "name": "Juno Tides",
+      "genre": "Nu-Disco",
+      "bio": "Juno Tides is a fictional electronic music act known for nu-disco sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Saturday",
+      "time": "02:00"
+    },
+        {
       "id": "20",
       "name": "Night Transit",
       "genre": "Deep House",
