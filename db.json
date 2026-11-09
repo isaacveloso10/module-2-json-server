@@ -1,25 +1,112 @@
-
-{
-  "artists": [
     {
-      "id": "1",
-      "name": "DJ Nova",
-      "genre": "House",
-      "bio": "Electronic music DJ and producer.",
-      "image": "",
-      "stageId": "1",
-      "day": "Friday",
-      "time": "22:00"
-    },
-    {
-      "id": "2",
-      "name": "Echo System",
-      "genre": "Techno",
-      "bio": "Experimental electronic music project.",
+      "id": "20",
+      "name": "Night Transit",
+      "genre": "Deep House",
+      "bio": "Night Transit is a fictional electronic music act known for deep house sets, expressive rhythms, and late-night dancefloor energy.",
       "image": "",
       "stageId": "2",
       "day": "Saturday",
-      "time": "23:00"
+      "time": "02:00"
+    },
+    {
+      "id": "21",
+      "name": "Silver Static",
+      "genre": "Techno",
+      "bio": "Silver Static is a fictional electronic music act known for techno sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Sunday",
+      "time": "18:00"
+    },
+    {
+      "id": "22",
+      "name": "Lumen Array",
+      "genre": "Electro",
+      "bio": "Lumen Array is a fictional electronic music act known for electro sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Sunday",
+      "time": "18:00"
+    },
+    {
+      "id": "23",
+      "name": "Vera Tempo",
+      "genre": "House",
+      "bio": "Vera Tempo is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Sunday",
+      "time": "20:00"
+    },
+    {
+      "id": "24",
+      "name": "Soft Machine Club",
+      "genre": "Disco",
+      "bio": "Soft Machine Club is a fictional electronic music act known for disco sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Sunday",
+      "time": "20:00"
+    },
+    {
+      "id": "25",
+      "name": "Kairo Pulse",
+      "genre": "UK Garage",
+      "bio": "Kairo Pulse is a fictional electronic music act known for uk garage sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Sunday",
+      "time": "22:00"
+    },
+    {
+      "id": "26",
+      "name": "Dusk Operator",
+      "genre": "Techno",
+      "bio": "Dusk Operator is a fictional electronic music act known for techno sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Sunday",
+      "time": "22:00"
+    },
+    {
+      "id": "27",
+      "name": "Solar Echoes",
+      "genre": "House",
+      "bio": "Solar Echoes is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Sunday",
+      "time": "00:00"
+    },
+    {
+      "id": "28",
+      "name": "Nia Resonance",
+      "genre": "Electro",
+      "bio": "Nia Resonance is a fictional electronic music act known for electro sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Sunday",
+      "time": "00:00"
+    },
+    {
+      "id": "29",
+      "name": "Midnight Mosaic",
+      "genre": "Nu-Disco",
+      "bio": "Midnight Mosaic is a fictional electronic music act known for nu-disco sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "1",
+      "day": "Sunday",
+      "time": "02:00"
+    },
+    {
+      "id": "30",
+      "name": "Atlas Groove",
+      "genre": "Deep House",
+      "bio": "Atlas Groove is a fictional electronic music act known for deep house sets, expressive rhythms, and late-night dancefloor energy.",
+      "image": "",
+      "stageId": "2",
+      "day": "Sunday",
+      "time": "02:00"
     }
   ],
   "stages": [
