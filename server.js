@@ -1,3 +1,10 @@
+const fs = require("fs");
+
+const db = JSON.parse(fs.readFileSync("db.json", "utf8"));
+
+console.log("Database file path:", fs.realpathSync("db.json"));
+console.log("First artist from file:", db.artists.find(a => String(a.id) === "1"));
+
 try {
   process.loadEnvFile(); // load environment variables from .env, if the file exists
 } catch (error) {
