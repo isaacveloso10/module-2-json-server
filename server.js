@@ -13,6 +13,7 @@ server.use(middlewares);
 
 const router = jsonServer.router('db.json'); // create a router backed by db.json for automatic CRUD routes
 server.use(router);
+console.log("First artist on startup:", router.db.get("artists").find({ id: "1" }).value());
 
 const PORT = process.env.PORT || 5005; // use PORT from env or fallback to 5005
 
