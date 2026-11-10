@@ -2,6 +2,7 @@
   "artists": [
     {
       "id": "1",
+      "image": "/images/artist-1.jpg",
       "name": "Velvet Circuit",
       "genre": "House",
       "bio": "Velvet Circuit is a fictional electronic music act known for house sets, expressive rhythms, and late-night dancefloor energy.",
